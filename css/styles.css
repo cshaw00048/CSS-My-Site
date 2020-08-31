@@ -1,3 +1,7 @@
+a {
+    color: #11999E;
+}
+
 body {
     color: #40514E;
     margin:0;
@@ -100,6 +104,7 @@ p {
 
 .bottom-container {
     background-color: #66BFBF;
+    padding: 50px 0 20px;
 }
 
 .bottom-cloud {
