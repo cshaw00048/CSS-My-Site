@@ -6,6 +6,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #EAF6F6;
+}
+
 body {
     color: #40514E;
     margin:0;
@@ -44,6 +48,12 @@ body {
 .contact-message {
    width: 40%; 
    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 
 .desktop {
