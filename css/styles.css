@@ -22,6 +22,11 @@ body {
 
 }
 
+.contact-message {
+   width: 40%; 
+   margin: 40px auto 60px;
+}
+
 .desktop {
     width: 25%;
     float: right;
@@ -58,6 +63,9 @@ h3 {
 
 hr {
     border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
 }
 
 .intro {
